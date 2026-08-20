@@ -2,24 +2,40 @@
 
 ### 🚀 Sobre mí
 
-Soy estudiante de Desarrollo de Software Multiplataforma y un desarrollador Full-Stack apasionado por crear herramientas que resuelvan problemas reales. Disfruto construyendo desde la interfaz de usuario hasta la arquitectura del servidor, con un interés particular en cómo la tecnología y la inteligencia artificial impactan nuestro entorno.
+Soy estudiante de desarrollo de software enfocado en crear aplicaciones web y móviles que sean funcionales, rápidas y sencillas de usar. Me apasiona construir herramientas prácticas que ayuden a solucionar necesidades reales, cuidando tanto la experiencia del usuario como la lógica que hace funcionar los sistemas por detrás.
 
-Actualmente trabajo y destaco en:
+Actualmente trabajo en proyectos relacionados con:
 
-* 💻 Desarrollo Full-Stack con **JavaScript, React y arquitecturas Express**.
-* 📱 Creación de aplicaciones móviles con **React Native**.
-* ⚙️ Desarrollo backend y scripts con **Python**.
-* 📊 Ingeniería de aplicaciones web para la recopilación de datos e investigación académica.
-* 🚀 Gestión de despliegues en plataformas como **Render y Netlify**.
+* 🌐 Desarrollo de páginas y aplicaciones web interactivas con React.
+* 📱 Creación de aplicaciones para celulares utilizando React Native.
+* 🐍 Programación en Python para lógica de negocios y automatización.
+* 🗄️ Gestión y organización de datos con MySQL, PostgreSQL.
+* 🚀 Publicación y puesta en marcha de proyectos en internet usando Render y Netlify.
 
-### 📚 Actualmente aprendiendo / Explorando
+### 📚 Actualmente aprendiendo
 
-* Optimización de pipelines de despliegue y CI/CD.
-* Mejores prácticas en arquitecturas monolíticas y gestión de sesiones.
-* Análisis de modelos recientes (últimos 2 años) sobre el impacto de la IA en los usuarios.
+* 📐 Buenas prácticas para estructurar y organizar proyectos de código más grandes.
+* 🔗 Conexión fluida entre aplicaciones mediante el uso de APIs.
+* 📲 Técnicas avanzadas de diseño e interacción en aplicaciones móviles.
+* ☁️ Métodos eficientes para subir y mantener proyectos en la nube.
 
 ### 📈 Estadísticas de GitHub
 
-![Estadísticas de Emiliano](https://github-readme-stats.vercel.app/api?username=Emiliano-Cardiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Emiliano-Cardiel&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliano-Cardiel&layout=compact&langs_count=6&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emiliano-Cardiel&theme=tokyonight&column=3&margin-w=15" alt="Trofes de GitHub" />
+</p>
+
+### 🛠️ Lenguajes y Tecnologías
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
