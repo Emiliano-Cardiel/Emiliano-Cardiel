@@ -20,10 +20,6 @@ Actualmente trabajo y destaco en:
 
 ### 📈 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emiliano-Cardiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de Emiliano" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliano-Cardiel&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados por Emiliano" />
-</div>
+![Estadísticas de Emiliano](https://github-readme-stats.vercel.app/api?username=Emiliano-Cardiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliano-Cardiel&layout=compact&langs_count=6&theme=tokyonight)
